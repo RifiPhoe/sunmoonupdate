@@ -9,7 +9,7 @@
 - [x] Speed I
 - [x] Regen I si soleil
 - [x] 50% dégâts armes à distance, flammes auto sur projectiles
-- [ ] Dégâts eau (6 cœurs par tick sans armure)
+- [x] Dégâts eau (6 cœurs par tick sans armure)
 - [ ] 8 cœurs
 - [ ] Peut pas manier de shield
 - [x] Snowgolems attaquent + boules de neiges : 6 cœurs sans armure, dépend de water protection
