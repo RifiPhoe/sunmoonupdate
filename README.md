@@ -1,7 +1,7 @@
 # SUN/MOON UPDATE
 
 ## SUN :
-- [ ] Double Jump
+- [x] Double Jump
 - [ ] Eclat lumineux, blindless (5 sec), repousse entités (30 sec), jumpboost II (5 sec)
 - [ ] Glowing sur mobs (range 50, 5 sec, cooldown 30 sec)
 - [ ] Base protection contre le feu II
