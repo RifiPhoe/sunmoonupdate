@@ -1,11 +1,8 @@
-# EN COURS DE MODIFICATIONS
 {
-	"type": "origins:multiple",
-
-	"damage_condition": {
-
-	"type": origins:modify_projectile_damage",
-    
-        "type": "origins:projectile"
-	}
+    "type": "origins:modify_enchantment_level",
+    "enchantment": "minecraft:fire_protection",
+    "modifier": {
+        "operation": "set_total",
+        "value": 3
+    }
 }
