@@ -22,7 +22,7 @@
 - [ ] Less knockback + resistance I
 - [ ] 12 cœurs
 - [ ] Strengh I si exposé à la lune
-- [x] x2 dégâts feu
+- [ ] x2 dégâts feu
 - [ ] Peut pas manier armes à distance
 - [ ] Golems attaquent
 
