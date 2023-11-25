@@ -10,7 +10,7 @@
         {
           "type": "origins:execute_command",
           "permission_level": 4,
-         "command": "execute as p[team-undead] at @s run data modify entity @e[type-minecraft:snow_golen, limit-1, sort-random, distance-..32] AngryAt set from entity @s UUID"
+         "command": "execute as p[team=undead] at @s run data modify entity @e[type=minecraft:snow_golen, limit=1, sort=random, distance=..32] AngryAt set from entity @s UUID"
         }
       ]
     }
