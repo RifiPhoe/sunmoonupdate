@@ -1,0 +1,11 @@
+{
+  "type": "origins:action_over_time",
+  "name": "Hostile",
+  "description": "Snow golems attack.",
+  "hidden": false,
+  "interval": 200,
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+  
