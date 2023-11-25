@@ -4,15 +4,15 @@
 - [ ] Double Jump
 - [ ] Eclat lumineux, blindless (5 sec), repousse entités (30 sec), jumpboost II (5 sec)
 - [ ] Glowing sur mobs (range 50, 5 sec, cooldown 30 sec)
-- [ ] Base protection contre le feu II
-- [ ] Haste I
-- [ ] Speed I
-- [ ] Regen I si soleil
-- [ ] 50% dégâts armes à distance, flammes auto sur projectiles
+- [x] Base protection contre le feu II
+- [x] Haste I
+- [x] Speed I
+- [x] Regen I si soleil
+- [x] 50% dégâts armes à distance, flammes auto sur projectiles
 - [ ] Dégâts eau (6 cœurs par tick sans armure)
 - [ ] 8 cœurs
 - [ ] Peut pas manier de shield
-- [ ] Snowgolems attaquent + boules de neiges : 6 cœurs sans armure, dépend de water protection
+- [x] Snowgolems attaquent + boules de neiges : 6 cœurs sans armure, dépend de water protection
 
 ## MOON
 - [ ] Moonjump
