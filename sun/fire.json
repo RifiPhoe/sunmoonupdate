@@ -1,0 +1,10 @@
+{
+	"type": "origins:multiple",
+
+	"damage_condition": {
+
+	"type": origins:modify_projectile_damage",
+    
+        "type": "origins:projectile"
+	}
+}
