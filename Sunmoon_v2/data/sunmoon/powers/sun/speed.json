@@ -1,0 +1,8 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "generic.movement_speed",
+        "operation": "multiply_base",
+        "value": 1.20
+    }
+}

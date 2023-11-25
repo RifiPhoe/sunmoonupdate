@@ -1,0 +1,57 @@
+This origin is played with TWO players! (1.19 Fabric)
+One Sun and one Moon, you will essentially be a somewhat weak origin without your counterpart online, but you can still play :)
+It's not intended to be played alone, I will make a singleplayer version for this origin when I get around to it (summer 2023 or later idk)
+As well as add new things or change things to the co-op version, again, if I feel like it.
+
+Read all the small tooltips on the origin description menu ingame! It gives a good idea of what you do
+Known bugs at the bottom of this file vvv
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sun - Passive: Faster movement, mining, attack. Hunger from sunlight. Debuff: More hunger drain. Active: Doublejump
+Moon - Passive: Less hunger drain. Nightvision. More damage & knockback. Debuff: Players affected by phantoms drain hunger. Active: Swimflight under roofs
+
+Control - Only one player is in control at a time, you share inventory, potion effects and health between the two of you.
+One person will be in Spectator mode and the other will be in Survival.
+Sun will swap in when it's bright, Moon will swap in when it's dark
+Sun is always active in the Nether, but can still allow Moon to be active manually. (This is for balance because Moon is great in caves and the nether is dark)
+
+The player is Spectator has two modes: 1st-Person "Synced" and 3rd-Person "Unsynced"
+You swap between them by left-clicking the player in control when in 3P, and tapping Shift when in 1P.
+
+1P is more limited but allows you to control your battery usage (This is the most unbalanced part of the origin I think, sorry about that)
+3P makes the player in control weaker, but also lets the Spectator look around, point and pull items, as well as restore battery by looking at redstone.
+While in 1P, the Spectator can tap WASD to toggle certain abilities to save power.
+W - Active: Sun can double jump, Moon can fly under cellings (might be bugged, sorry)
+A - (None or I can't remember)
+S - Self Debuff: Sun can't see mobs, Moon can't mine anything.
+D - (None or I can't remember)
+===========
+Request - While you are forced to swap at certain points, you can choose to allow the other player to have control when they normally wouldn't
+In order for this to work, the Spectator player will tap Primary to "ask" you to swap. You will see a moon/sun bar flashing above hunger.
+By holding/occassionally tapping your Primary key when the bar is visible, you let the other player have control and put yourself into Spectator mode
+===========
+Fight - When you are not in control, you can force a swap and be in control for a short time
+It takes a few tries to win and the player in control can Defend by tapping the same key for Fight, which will fully prevent you from gaining control while the shield bar is visible above hunger
+===========
+Battery Charge - You do not have hunger, you restore battery by right clicking/standing on redstone blocks, or by using a bed (at any time of day)
+===========
+Sun/Moon Abilities - Both Sun and Moon have unique active abilities, they can only be used if toggled On by the Spectator player
+===========
+Caretaker - You can't damage baby mobs, item drops around you drain your power/hunger.
+But you can pickup any entity with rightclick if you have Hotbar9 selected (can be OP)
+==========
+Cosmetics - Not required, you can add and remove the power that handles the cosmetics if you want
+There is a resourcepack with Sun & Moon hats that will give you them to you depending on which one you are.
+
+Checkout PlanetMinecraft for details, files and installation:
+https://www.planetminecraft.com/data-pack/fnaf-sb-sun-amp-moon-accessories/
+
+Known issues:
+- Moon's celling flight might be broken (either nothing happens or you can swimfly everywhere)
+- Being Synced doesn't always work, you might need to re-enter 1P (Tap Shift) for the game to recognize it, fast movement might also break Synced
+- If you have Sodium installed, you may crash if you manage to separate the two of you
+- Riding animals/boats/minecarts might separate the two of you and cause a lot of issues
+- Possibly unbalanced/boring at certain points
+- The power usage indicator might be inaccurate
+- Bruh idk this thing is very unstable and held together by sticks and gum, might encounter other bugs
