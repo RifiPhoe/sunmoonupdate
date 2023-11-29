@@ -1,9 +1,9 @@
 # SUN/MOON UPDATE
 
 ***Guide :***
- *- Une case cochée = en train d'être travaillé ou fais mais ne fonctionnne pas*
- *- Surligné = terminé (à ne plus toucher sauf cas particulier)*
- *- Le Sunmoon_v2 n'est pas à prendre en compte (old version, sera peut-être update à la toute fin)*
+- *Une case cochée = en train d'être travaillé ou fais mais ne fonctionnne pas*
+- *Surligné = terminé (à ne plus toucher sauf cas particulier)*
+- *Le Sunmoon_v2 n'est pas à prendre en compte (old version, sera peut-être update à la toute fin)*
 
 ## SUN :
 - [ ] Double Jump
