@@ -7,7 +7,7 @@
                 "effect": "minecraft:regeneration",
                 "duration": 40,
                 "show_particles": false,
-                "show_icon" : false
+                "show_icon" : true
             }]
 
     },
