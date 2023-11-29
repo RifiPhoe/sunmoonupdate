@@ -10,8 +10,6 @@
 - [ ] Eclat lumineux, blindless (5 sec), repousse entités (30 sec), jumpboost II (5 sec)
 - [ ] Glowing sur mobs (range 50, 5 sec, cooldown 30 sec)
 -  ~~[x] Base protection contre le feu II~~ **DONE**
--  ~~[x] Haste I~~ **DONE**
-- [x] Speed I
 - [x] Regen I si soleil
 - [x] 50% dégâts armes à distance, flammes auto sur projectiles
 - [x] Dégâts eau (6 cœurs par tick sans armure)
