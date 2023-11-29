@@ -1,8 +1,13 @@
 {
-  "type": "origins:modify_enchantment_level",
-        "enchantment": "minecraft:power",
-        "modifier": {
-            "operation": "set_total",
-            "value": 1 
-        }
+    "name": "Archer Ace",
+    "description": "You know how best to use a bow. Arrows deal more damage when fired by you.",
+    "type": "origins:modify_projectile_damage",
+    "damage_condition": {
+        "type": "origins:projectile",
+        "projectile": "minecraft:arrow"
+    },
+    "modifier": {
+        "operation": "addition",
+        "value": 5
+    }
 }
