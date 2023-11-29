@@ -1,8 +1,0 @@
-{
-    "type": "origins:modify_enchantment_level",
-    "enchantment": "minecraft:fire_protection",
-    "modifier": {
-        "operation": "set_total",
-        "value": 3
-    }
-}
