@@ -1,11 +1,16 @@
 # SUN/MOON UPDATE
 
+***Guide :***
+ *Une case cochée = en train d'être travaillé ou fais mais ne fonctionnne pas*
+ *Surligné = terminé (à ne plus toucher sauf cas particulier)*
+ *Le Sunmoon_v2 n'est pas à prendre en compte (old version, sera peut-être update à la toute fin)*
+
 ## SUN :
 - [ ] Double Jump
 - [ ] Eclat lumineux, blindless (5 sec), repousse entités (30 sec), jumpboost II (5 sec)
 - [ ] Glowing sur mobs (range 50, 5 sec, cooldown 30 sec)
--  ~~[x] Base protection contre le feu II~~ ## DONE
--  ~~[x] Haste I~~ ## DONE
+-  ~~[x] Base protection contre le feu II~~ **DONE**
+-  ~~[x] Haste I~~ **DONE**
 - [x] Speed I
 - [x] Regen I si soleil
 - [x] 50% dégâts armes à distance, flammes auto sur projectiles
