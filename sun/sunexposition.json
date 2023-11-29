@@ -14,7 +14,5 @@
     "interval": 20,
     "condition": {
         "type": "origins:exposed_to_sun"
-      },
-  "name":"Heliophobia",
-  "description":"You are slower and weaker when exposed to the sun."
+      }
 }
