@@ -15,7 +15,7 @@
 - [ ] 8 cœurs
 - [ ] Peut pas manier de shield
 - [x] Snowgolems attaquent
-- ~~[x] Boules de neiges : 6 cœurs sans armure, dépend de water protection~~ **DONE**
+- ~~[x] Boules de neiges : 6 cœurs sans armure, dépend de water protection~~ **DONE** ***(water protection à vérifier)***
 
 ## MOON :
 - [ ] Moonjump
