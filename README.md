@@ -13,7 +13,7 @@
 - [x] 50% dégâts armes à distance, flammes auto sur projectiles
 - ~~[x] Dégâts eau (6 cœurs par tick sans armure)~~ **DONE**
 - [ ] 8 cœurs
-- [ ] Peut pas manier de shield
+- [x] Peut pas manier de shield
 - [x] Snowgolems attaquent
 - ~~[x] Boules de neiges : 6 cœurs sans armure, dépend de water protection~~ **DONE** ***(water protection à vérifier)***
 
