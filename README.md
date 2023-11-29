@@ -9,11 +9,11 @@
 - [ ] Eclat lumineux, blindless (5 sec), repousse entités (30 sec), jumpboost II (5 sec)
 - [ ] Glowing sur mobs (range 50, 5 sec, cooldown 30 sec)
 -  ~~[x] Base protection contre le feu II~~ **DONE**
-- [x] Regen I si soleil
+- ~~[x] Regen I si soleil~~ **DONE**
 - [x] 50% dégâts armes à distance, flammes auto sur projectiles
 - ~~[x] Dégâts eau (6 cœurs par tick sans armure)~~ **DONE**
-- [x] 8 cœurs
-- [x] Peut pas manier de shield
+- ~~[x] 8 cœurs~~ **DONE**
+- ~~[x] Peut pas manier de shield~~ **DONE**
 - [x] Snowgolems attaquent
 - ~~[x] Boules de neiges : 6 cœurs sans armure, dépend de water protection~~ **DONE** ***(water protection à vérifier)***
 
