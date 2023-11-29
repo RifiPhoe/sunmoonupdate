@@ -1,4 +1,5 @@
-"snow_golem_auto_mad": {
+{
+        "snow_golem_auto_mad": {
         "type": "origins:action_over_time",
         "interval": 10,
         "entity_action": {
