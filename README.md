@@ -31,3 +31,6 @@
 
 ## BOTH :
 - [ ] Hunger variable (0 à 6)
+
+***Notes d'updates :***
+Sun : Regen à surveiller
