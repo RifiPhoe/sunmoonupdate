@@ -1,16 +1,20 @@
 {
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effects": 
+            [{
+                "effect": "minecraft:regeneration",
+                "duration": 40,
+                "show_particles": false,
+                "show_icon" : false
+            }]
+
+    },
+    "interval": 20,
     "condition": {
-        "type": "origins:exposed_to_sun",
-        "min_stacks": 0,
-        "max_stacks": 1,
-        "duration_per_stack": 20,
-        "tick_rate": 10,
-        "effect": {
-            "effect": "minecraft:regeneration",
-            "duration": 200,
-            "amplifier": 1,
-            "show_particles": false,
-            "show_icon": true
-        }
-    }
+        "type": "origins:exposed_to_sun"
+      },
+  "name":"Heliophobia",
+  "description":"You are slower and weaker when exposed to the sun."
 }
