@@ -1,0 +1,8 @@
+{
+  "type": "origins:modify_enchantment_level",
+        "enchantment": "minecraft:power",
+        "modifier": {
+            "operation": "set_total",
+            "value": 1 
+        }
+}
