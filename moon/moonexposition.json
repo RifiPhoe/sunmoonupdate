@@ -4,7 +4,7 @@
         "type": "origins:apply_effect",
         "effects": 
             [{
-                "effect": "minecraft:regeneration",
+                "effect": "minecraft:strength",
                 "duration": 40,
                 "show_particles": false,
                 "show_icon" : true
