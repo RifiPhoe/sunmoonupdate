@@ -1,43 +1,8 @@
 {
-    "name": "Snow golems",
-    "description": "Snow golems attack you.",
-    "type": "origins:multiple",
-    "iron_golem_attack": {
-        "type": "origins:action_over_time",
-        "interval": 10,
-        "entity_action": {
-            "type": "origins:and",
-            "actions": [
-                {
-                    "type": "origins:execute_command",
-                    "command": "execute at @s as @e[type=minecraft:snow_golem,distance=..10] run data modify entity @s AngerTime set value 60",
-                    "permission_level": 4
-                },
-                {
-                    "type": "origins:execute_command",
-                    "command": "execute at @s as @e[type=minecraft:snow_golem,distance=..10] run data modify entity @s AngryAt set from entity @p UUID",
-                    "permission_level": 4
-                }
-            ]
-        }
-    },
-    "iron_golem_no_aggro": {
-        "type": "origins:action_over_time",
-        "interval": 10,
-        "entity_action": {
-            "type": "origins:and",
-            "actions": [
-                {
-                    "type": "origins:execute_command",
-                    "command": "execute at @s as @e[type=minecraft:snow_golem,distance=10..20] run data modify entity @s AngryAt set from entity @s UUID",
-                    "permission_level": 2
-                },
-                {
-                    "type": "origins:execute_command",
-                    "command": "execute at @s as @e[type=minecraft:snow_golem,distance=10..20] run data modify entity @s AngerTime set value 0",
-                    "permission_level": 2
-                }
-            ]
-        }
+    "type": "origins:action_over_time",
+    "interval": 15,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "data modify entity @e[limit=1,distance=..15,type=minecraft:iron_golem,sort=nearest] AngryAt set from entity @s UUID"
     }
 }
