@@ -27,13 +27,14 @@
 - [x] Strengh I si exposé à la lune
 - [x] x2 dégâts feu
 - [ ] Peut pas manier armes à distance
-- [ ] Golems attaquent
+- [x] Golems attaquent
 
 ## BOTH :
 - [ ] Hunger variable (0 à 6)
 
 ***Notes d'updates :***
 - Sun : Regen à surveiller
-- Sun : Golems marchent tjrs pas
+- Sun : Golems marchent tjrs pas, a retester juste avec les irons
 - Sun : Flame/Power à tester
 - Moon : Moonexposition/Hearts à tester
+- Moon : Golems à tester
