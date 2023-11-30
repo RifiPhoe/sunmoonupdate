@@ -1,8 +1,8 @@
 {
-    "type": "origins:modify_enchantment_level",
-    "enchantment": "minecraft:flame",
-    "modifier": {
-        "operation": "set_total",
-        "value": 1
+    "entity_action": {
+    "type": "origins:fire_projectile",
+    "entity_type": "minecraft:arrows",
+    "divergence": 0,
+    "count": 1
     }
 }
