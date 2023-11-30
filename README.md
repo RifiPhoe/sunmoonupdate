@@ -21,12 +21,12 @@
 - [ ] Moonjump
 - [ ] Bulle de gravité qui paralyse et fait léviter les mobs (5 sec, cooldown 30 sec) et jumpboost II (5 sec)
 - [ ] Peut se rendre invisible jusqu'à frapper (true invisibility 20 sec, cooldown 1 min)
-- [ ] Undeads n'attaquent pas
+- [x] Undeads n'attaquent pas
 - [x] Less knockback + resistance I
 - [x] 12 cœurs
 - [x] Strengh I si exposé à la lune
 - [x] x2 dégâts feu
-- [ ] Peut pas manier armes à distance
+- [x] Peut pas manier armes à distance
 - [x] Golems attaquent
 
 ## BOTH :
@@ -39,3 +39,4 @@
 - Moon : Moonexposition/Hearts à tester
 - Moon : Golems à tester
 - Moon : Knockback/resistance à tester
+- Moon : Undead, bow à tester
