@@ -24,7 +24,7 @@
 - [ ] Undeads n'attaquent pas
 - [ ] Less knockback + resistance I
 - [x] 12 cœurs
-- [ ] Strengh I si exposé à la lune
+- [x] Strengh I si exposé à la lune
 - [x] x2 dégâts feu
 - [ ] Peut pas manier armes à distance
 - [ ] Golems attaquent
@@ -36,3 +36,4 @@
 - Sun : Regen à surveiller
 - Sun : Golems marchent tjrs pas
 - Sun : Flame/Power à tester
+- Moon : Moonexposition/Hearts à tester
