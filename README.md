@@ -1,7 +1,5 @@
 # SUN/MOON UPDATE
 
-***Corriger amalgame fire/flame***
-
 ***Guide :***
 - *Une case cochée = en train d'être travaillé ou fais mais ne fonctionnne pas*
 - *Surligné = terminé (à ne plus toucher sauf cas particulier)*
