@@ -14,7 +14,7 @@
 - [x] ~~Dégâts eau (6 cœurs par tick sans armure)~~ **DONE**
 - [x] ~~8 cœurs~~ **DONE**
 - [x] ~~Peut pas manier de shield~~ **DONE**
-- [x] ~~Snowgolems attaquent~~ : **"Impossible, problème de data : suggestion --> iron golems simple + no water protection on snowballs**
+- [x] ~~Snowgolems attaquent~~ : **"Impossible", problème de data : suggestion --> iron golems simple + no water protection on snowballs**
 - [x] ~~Boules de neiges : 6 cœurs sans armure, dépend de water protection~~ **DONE** ***(water protection enlevé pour le moment)***
 
 ## MOON :
