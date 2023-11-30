@@ -38,5 +38,5 @@
 - Sun : Flame/Power à tester
 - Moon : Moonexposition/Hearts à tester
 - Moon : Golems à tester
-- Moon : Knockback/resistance à tester
+- Moon : Knockback/resistance à tester, pas sure que ça pmarche, si non tester le action over time
 - Moon : Undead, bow à tester
