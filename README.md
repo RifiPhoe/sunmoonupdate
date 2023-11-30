@@ -34,3 +34,5 @@
 
 ***Notes d'updates :***
 - Sun : Regen à surveiller
+- Sun : Golems marchent tjrs pas
+- Sun : Flame/Power à tester
