@@ -23,7 +23,7 @@
 - [ ] Peut se rendre invisible jusqu'à frapper (true invisibility 20 sec, cooldown 1 min)
 - ~~[x] Undeads n'attaquent pas~~ **DONE**
 - ~~[x] Less knockback + resistance I~~ **DONE**
-- ~~[x] 12 cœurs~~ **DONE**
+- [x] ~~12 cœurs~~ **DONE**
 - ~~[x] Strengh I si exposé à la lune~~ **DONE**
 - ~~[x] x2 dégâts feu~~ **DONE**
 - ~~[x] Peut pas manier armes à distance~~ **DONE**
