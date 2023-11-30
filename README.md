@@ -40,3 +40,4 @@
 - Moon : Golems à tester
 - Moon : Knockback/resistance à tester, pas sure que ça pmarche, si non tester le action over time
 - Moon : Undead, bow à tester
+- Sun : regen à retester (-1)
