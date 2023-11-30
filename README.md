@@ -14,30 +14,23 @@
 - ~~[x] Dégâts eau (6 cœurs par tick sans armure)~~ **DONE**
 - ~~[x] 8 cœurs~~ **DONE**
 - ~~[x] Peut pas manier de shield~~ **DONE**
-- [x] Snowgolems attaquent
+- ~~[x] Snowgolems attaquent~~ : **"Impossible, problème de data : suggestion --> iron golems simple + no water protection on snowballs**
 - ~~[x] Boules de neiges : 6 cœurs sans armure, dépend de water protection~~ **DONE** ***(water protection à vérifier)***
 
 ## MOON :
 - [ ] Moonjump
 - [ ] Bulle de gravité qui paralyse et fait léviter les mobs (5 sec, cooldown 30 sec) et jumpboost II (5 sec)
 - [ ] Peut se rendre invisible jusqu'à frapper (true invisibility 20 sec, cooldown 1 min)
-- [x] Undeads n'attaquent pas
-- [x] Less knockback + resistance I
-- [x] 12 cœurs
-- [x] Strengh I si exposé à la lune
-- [x] x2 dégâts feu
-- [x] Peut pas manier armes à distance
-- [x] Golems attaquent
+- ~~[x] Undeads n'attaquent pas~~ **DONE**
+- ~~[x] Less knockback + resistance I~~ **DONE**
+- ~~[x] 12 cœurs~~ **DONE**
+- ~~[x] Strengh I si exposé à la lune~~ **DONE**
+- ~~[x] x2 dégâts feu~~ **DONE**
+- ~~[x] Peut pas manier armes à distance~~ **DONE**
+- ~~[x] Golems attaquent~~ **DONE**
 
 ## BOTH :
 - [ ] Hunger variable (0 à 6)
 
-***Notes d'updates :***
-- Sun : Regen à surveiller
-- Sun : Golems marchent tjrs pas, a retester juste avec les irons
-- Sun : Flame/Power à tester
-- Moon : Moonexposition/Hearts à tester
-- Moon : Golems à tester
-- Moon : Knockback/resistance à tester, pas sure que ça pmarche, si non tester le action over time
-- Moon : Undead, bow à tester
-- Sun : regen à retester (-1)
+***Notes d'updates :*** 
+- Sun : Flame/Power toujours en cours de recherche
