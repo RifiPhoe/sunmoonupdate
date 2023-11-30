@@ -1,13 +1,11 @@
 {
-    "name": "Power",
-    "description": "Power on projectiles",
     "type": "origins:modify_projectile_damage",
     "damage_condition": {
         "type": "origins:projectile",
-        "projectile": "minecraft:arrow"
+        "projectile": "minecraft:arrows"
     },
     "modifier": {
         "operation": "addition",
-        "value": 5
+        "value": 8.0
     }
 }
