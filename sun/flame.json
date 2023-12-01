@@ -1,8 +1,24 @@
 {
+    "type": "origins:target_action_on_hit",
     "entity_action": {
-    "type": "origins:fire_projectile",
-    "entity_type": "minecraft:arrows",
-    "divergence": 0,
-    "count": 1
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:slowness",
+            "amplifier": 3,
+            "duration": 100
+
+"damage_condition": {
+    "type": "origins:projectile",
+    "projectile_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:entity_type",
+          "entity_type": "minecraft:arrow"
+        },
+        {
+          "type": "origins:on_fire"
+        }
+      ]
     }
 }
