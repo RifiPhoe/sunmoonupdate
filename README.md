@@ -33,4 +33,4 @@
 - [ ] Hunger variable (0 à 6)
 
 ***Notes d'updates :*** 
-Voir Phantom pour la hunger, Gravitate et Psych, Springtrap
+Voir Phantom pour la hunger, Gravitate et Psych, Springtrap, ajouter les powers à hunger quand ils seront faits
