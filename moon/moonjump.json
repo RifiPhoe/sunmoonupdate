@@ -1,0 +1,91 @@
+{
+    "type": "origins:multiple",
+    "runjump": {
+        "condition": {
+            "type": "origins:sprinting"
+        },
+        "type": "origins:modify_jump",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": 0.1
+        },
+        "entity_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "levitation",
+                        "duration": 15,
+                        "amplifier": 2,
+                        "show_particles": false,
+                        "show_icon": false
+                    }
+                },
+                {
+                    "type": "origins:delay",
+                    "action": {
+                        "type": "origins:apply_effect",
+                        "effect": {
+                            "effect": "levitation",
+                            "duration": 5,
+                            "amplifier": 0,
+                            "show_particles": false,
+                            "show_icon": false
+                        }
+                    },
+                    "ticks": 15
+                }
+            ]
+        }
+    },
+    "walkjump": {
+        "condition": {
+            "inverted": true,
+            "type": "origins:sprinting"
+        },
+        "type": "origins:modify_jump",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": -0.1
+        },
+        "entity_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "levitation",
+                        "duration": 5,
+                        "amplifier": 2,
+                        "show_particles": false,
+                        "show_icon": false
+                    }
+                },
+                {
+                    "type": "origins:delay",
+                    "action": {
+                        "type": "origins:apply_effect",
+                        "effect": {
+                            "effect": "levitation",
+                            "duration": 5,
+                            "amplifier": 0,
+                            "show_particles": false,
+                            "show_icon": false
+                        }
+                    },
+                    "ticks": 5
+                }
+            ]
+        }
+    },
+    "fall": {
+        "type": "origins:modify_falling",
+        "velocity": 0.01,
+        "take_fall_damage": false
+    },
+  "key": {
+            "key": "key.loadToolbarActivator"
+        }
+    }
+}
