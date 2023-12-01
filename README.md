@@ -18,7 +18,7 @@
 - [x] ~~Boules de neiges : 6 cœurs sans armure, dépend de water protection~~ **DONE** ***(water protection enlevé pour le moment)***
 
 ## MOON :
-- [ ] Moonjump
+- [x] Moonjump
 - [ ] Bulle de gravité qui paralyse et fait léviter les mobs (5 sec, cooldown 30 sec) et jumpboost II (5 sec)
 - [ ] Peut se rendre invisible jusqu'à frapper (true invisibility 20 sec, cooldown 1 min)
 - [x] ~~Undeads n'attaquent pas~~ **DONE**
@@ -30,7 +30,7 @@
 - [x] ~~Golems attaquent~~ **DONE**
 
 ## BOTH :
-- [ ] Hunger variable (0 à 6)
+- [x] Hunger variable (0 à 6)
 
 ***Notes d'updates :*** 
 Voir Phantom pour la hunger, Gravitate et Psych, Springtrap, ajouter les powers à hunger quand ils seront faits
