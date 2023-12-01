@@ -10,7 +10,7 @@
 - [ ] Glowing sur mobs (range 50, 5 sec, cooldown 30 sec)
 - [x] ~~Base protection contre le feu II~~ **DONE**
 - [x] ~~Regen I si soleil~~ **DONE**
-- [x] 50% dégâts armes à distance, flammes auto sur projectiles
+- [x] ~~50% dégâts armes à distance, flammes auto sur projectiles~~~**DONE**
 - [x] ~~Dégâts eau (6 cœurs par tick sans armure)~~ **DONE**
 - [x] ~~8 cœurs~~ **DONE**
 - [x] ~~Peut pas manier de shield~~ **DONE**
@@ -33,4 +33,3 @@
 - [ ] Hunger variable (0 à 6)
 
 ***Notes d'updates :*** 
-- Sun : Flame/Power toujours en cours de recherche
